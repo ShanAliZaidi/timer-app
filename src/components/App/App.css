@@ -1,0 +1,9 @@
+.App {
+  display: flex;
+  height: 300px;
+  width: 500px;
+  flex-direction: column;
+  border: 1;
+  border-style: solid;
+  border-color: rgb(46, 138, 199);
+}

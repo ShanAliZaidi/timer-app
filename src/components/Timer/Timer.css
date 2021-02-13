@@ -1,0 +1,24 @@
+.Timer {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    border-bottom-style: solid;
+    border-bottom-color: rgb(46, 138, 199);
+}    
+h1 {
+ font-size: 50px;
+}
+.Button {
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 10px;
+    margin-top: 15px;
+}
+button {
+    width: 150px;
+    height: 50px;
+    align-self: flex-end;
+    background-color: white;
+}
